@@ -37,3 +37,11 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# R Studio project
+.Rproj
+
+# bookdown files
+_book/
+_bookdown_files/
+fits/
