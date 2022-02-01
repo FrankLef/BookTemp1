@@ -1,8 +1,12 @@
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
+fig:nice-fig
+tab:nice-tab
+eq:binom
+about
 usage
 render-book
 preview-book
 hello-bookdown
+setup
 a-section
 cross
 chapters-and-sub-chapters
@@ -19,4 +23,3 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-setup
