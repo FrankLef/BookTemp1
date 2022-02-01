@@ -13,7 +13,7 @@ details.
 # create a hidden file .nojekyll
 # to tell GitHub that the website is not to be build via Jekyll
 a_file <- file.path(getwd(), ".nojekyll")
-# if (!file.exists(a_file)) file.create(file.path(getwd(), ".nojekyll"))
+if (!file.exists(a_file)) file.create(file.path(getwd(), ".nojekyll"))
 ```
 
 ## A section
